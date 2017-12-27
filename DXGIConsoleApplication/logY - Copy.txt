@@ -1,0 +1,573 @@
+0
+6
+13
+0
+8
+0
+8
+14
+0
+0
+0
+0
+0
+128
+2
+69
+18
+20
+2
+40
+14
+267
+42
+8
+27
+0
+1
+269
+38
+141
+1135 30
+7
+137
+121
+269
+237
+235
+1006 6
+10
+8
+16
+5
+5
+5
+6
+23
+7
+250
+6
+0
+21
+9
+timed out for 15 
+timed out for 16 
+90
+timed out for 18 
+timed out for 19 
+timed out for 20 
+timed out for 21 
+timed out for 22 
+timed out for 23 
+262
+timed out for 25 
+493
+1216 26
+timed out for 1 
+492
+timed out for 3 
+494
+timed out for 5 
+478
+1464 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+493
+1481 6
+timed out for 1 
+477
+7
+475
+491
+1450 5
+491
+492
+492
+1475 3
+491
+491
+492
+1474 3
+timed out for 1 
+477
+7
+492
+475
+1451 5
+492
+191
+292
+492
+1467 4
+492
+491
+493
+1476 3
+timed out for 1 
+492
+timed out for 3 
+477
+timed out for 5 
+493
+1462 6
+timed out for 1 
+493
+timed out for 3 
+493
+timed out for 5 
+473
+1459 6
+timed out for 1 
+495
+timed out for 3 
+494
+timed out for 5 
+495
+1484 6
+timed out for 1 
+477
+timed out for 3 
+494
+timed out for 5 
+494
+1465 6
+timed out for 1 
+495
+timed out for 3 
+495
+timed out for 5 
+477
+1467 6
+timed out for 1 
+timed out for 2 
+10
+timed out for 4 
+477
+timed out for 6 
+494
+timed out for 8 
+493
+1474 9
+timed out for 1 
+494
+timed out for 3 
+474
+timed out for 5 
+476
+1444 6
+7
+492
+487
+492
+1478 4
+timed out for 1 
+476
+timed out for 3 
+493
+timed out for 5 
+494
+1463 6
+timed out for 1 
+492
+timed out for 3 
+494
+timed out for 5 
+494
+1480 6
+timed out for 1 
+477
+timed out for 3 
+494
+timed out for 5 
+493
+1464 6
+timed out for 1 
+494
+timed out for 3 
+476
+timed out for 5 
+495
+1465 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+493
+1481 6
+timed out for 1 
+477
+timed out for 3 
+495
+timed out for 5 
+493
+1465 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+478
+1466 6
+timed out for 1 
+494
+timed out for 3 
+492
+timed out for 5 
+493
+1479 6
+timed out for 1 
+477
+timed out for 3 
+494
+timed out for 5 
+493
+1464 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+477
+1465 6
+timed out for 1 
+493
+timed out for 3 
+493
+timed out for 5 
+494
+1480 6
+timed out for 1 
+493
+192
+292
+476
+1453 5
+493
+7
+491
+476
+1467 4
+491
+491
+timed out for 3 
+493
+1475 4
+timed out for 1 
+475
+timed out for 3 
+493
+timed out for 5 
+493
+1461 6
+timed out for 1 
+493
+timed out for 3 
+494
+timed out for 5 
+477
+1464 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+493
+1481 6
+timed out for 1 
+494
+timed out for 3 
+477
+timed out for 5 
+494
+1465 6
+timed out for 1 
+495
+timed out for 3 
+494
+timed out for 5 
+491
+1480 6
+timed out for 1 
+477
+timed out for 3 
+493
+timed out for 5 
+431
+1401 6
+0
+0
+0
+0
+8
+15
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+15
+0
+12
+15
+0
+29
+10
+1
+2
+14
+5
+4
+23
+6
+23
+timed out for 49 
+445
+timed out for 51 
+timed out for 52 
+timed out for 53 
+253
+45
+9
+14
+5
+timed out for 59 
+6
+491
+1451 61
+490
+timed out for 2 
+10
+491
+491
+1482 5
+488
+491
+491
+1470 3
+timed out for 1 
+477
+timed out for 3 
+491
+timed out for 5 
+494
+1462 6
+timed out for 1 
+494
+timed out for 3 
+477
+timed out for 5 
+492
+1463 6
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+493
+1481 6
+timed out for 1 
+477
+timed out for 3 
+493
+timed out for 5 
+494
+1464 6
+timed out for 1 
+493
+timed out for 3 
+494
+timed out for 5 
+478
+1465 6
+timed out for 1 
+493
+timed out for 3 
+494
+timed out for 5 
+494
+1481 6
+timed out for 1 
+494
+timed out for 3 
+477
+timed out for 5 
+494
+1465 6
+timed out for 1 
+494
+timed out for 3 
+495
+timed out for 5 
+494
+1483 6
+timed out for 1 
+477
+timed out for 3 
+493
+timed out for 5 
+494
+1464 6
+timed out for 1 
+492
+timed out for 3 
+478
+timed out for 5 
+10
+475
+1455 7
+492
+492
+491
+1475 3
+492
+timed out for 2 
+490
+timed out for 4 
+477
+1459 5
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+492
+1480 6
+timed out for 1 
+477
+7
+475
+7
+475
+1441 6
+493
+490
+492
+1475 3
+492
+491
+timed out for 3 
+493
+1476 4
+timed out for 1 
+476
+6
+475
+492
+1449 5
+492
+492
+491
+1475 3
+491
+timed out for 2 
+494
+timed out for 4 
+476
+1461 5
+timed out for 1 
+494
+timed out for 3 
+494
+timed out for 5 
+494
+1482 6
+timed out for 1 
+492
+timed out for 3 
+476
+timed out for 5 
+493
+1461 6
+timed out for 1 
+493
+timed out for 3 
+494
+timed out for 5 
+477
+1464 6
+7
+474
+492
+492
+1465 4
+489
+492
+492
+1473 3
+492
+timed out for 2 
+477
+6
+475
+1450 5
+492
+492
+490
+1474 3
+409
+7
+timed out for 3 
+59
+491
+timed out for 6 
+491
+1457 7
+timed out for 1 
+473
+timed out for 3 
+495
+timed out for 5 
+494
+1462 6
+timed out for 1 
+493
+timed out for 3 
+493
+timed out for 5 
+476
+1462 6
+timed out for 1 
+495
+timed out for 3 
+493
+timed out for 5 
+492
+1480 6
+timed out for 1 
+495
+timed out for 3 
+477
+timed out for 5 
+493
+1465 6
+timed out for 1 
+494
+timed out for 3 
+493
+timed out for 5 
